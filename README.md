@@ -10,5 +10,5 @@ About me:
 - 💬 Favorite quotes: 
        * "Attitude is everything"
        * "What you think you become"
-       * "Keep it simple. Less is more" 
+       * "Less is more" 
 - 📫 How to reach me: sabrinadanielasastre@gmail.com
