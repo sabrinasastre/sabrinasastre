@@ -9,9 +9,9 @@
 - 😄 I'm currently studying hard to get my 1st job as a developer. 
 - ⚡ Other Interests: photography, travel, yoga, design, coaching  
 - 💬 Favorite quotes: 
-          "Attitude is everything"
+         <em> "Attitude is everything"
         | "What you think you become"
-        | "Less is more" 
+        | "Less is more" </em>
 - 📫 How to reach me: sabrinadanielasastre@gmail.com
 
 ### Tech & Tools 
