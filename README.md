@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **sabrinasastre/sabrinasastre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![png_20211229_212016_0000](https://user-images.githubusercontent.com/87614370/147714483-e4f3059f-8104-4d03-8536-ae2974d9c112.png)
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
