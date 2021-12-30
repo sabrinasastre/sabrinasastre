@@ -3,7 +3,7 @@
 <h2>I'm glad you are interested in my work! You're very welcome!</h2>
 <p><em>I'm a full stack developer trainee studying at <a href="https://www.digitalhouse.com/">Digital House</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> A little more about me...  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></em> A little more about me...  
 - 🌱 I’m a full stack developer trainee. 
 - 👯 I’m a teacher interested in changing career paths. 
 - 😄 I'm currently studying hard to get my 1st job as a developer. 
