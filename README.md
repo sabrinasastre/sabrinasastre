@@ -5,8 +5,8 @@
 I'm glad you are interested in my work! Welcome! 
 <p><em>I'm a full stack developer trainee studying at <a href="https://www.digitalhouse.com/">Digital House</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
 
-[![Linkedin: sabrinadanielasastre](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://ar.linkedin.com/in/sabrinadanielasastre)](https://ar.linkedin.com/in/sabrinadanielasastre)
-[![GitHub Sabrina Sastre](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: sabrinadanielasastre](https://ar.linkedin.com/in/sabrinadanielasastre)](https://ar.linkedin.com/in/sabrinadanielasastre)
+[![GitHub Sabrina Sastre](https://github.com/sabrinasastre)](https://github.com/sabrinasastre)
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
