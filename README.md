@@ -1,7 +1,6 @@
 ### Hi there 👋
-
 I'm glad you are interested in my work! Welcome!
-![20211229_231015_0000_2](https://user-images.githubusercontent.com/87614370/147716694-bc856dd8-e8de-4b9e-8f62-d29eaf7a134a.png)
+![20211229_231015_0000_3](https://user-images.githubusercontent.com/87614370/147716874-02da985e-9830-47d5-96cb-c5141cb72e0b.png)
 About me: 
 - 🌱 I’m a full stack developer trainee. 
 - 👯 I’m a teacher interested in changing career paths. 
