@@ -1,7 +1,7 @@
 <h1> Hi, I'm Sabrina! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <h2>I'm glad you are interested in my work! You're very welcome!</h2>
-<p><em>I'm a full stack developer trainee studying at <a href="https://www.digitalhouse.com/">Digital House</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
+<p><em>I'm a full stack developer trainee studying at <a href="https://www.digitalhouse.com/">Digital House</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"></br></p>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></em> A little more about me...  
 - 🌱 I’m a full stack developer trainee. 
