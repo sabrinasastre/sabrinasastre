@@ -1,17 +1,14 @@
 ### Hi there 👋
 
+I'm glad you are interested in my work! Welcome!
 
-**sabrinasastre/sabrinasastre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![png_20211229_212016_0000](https://user-images.githubusercontent.com/87614370/147714483-e4f3059f-8104-4d03-8536-ae2974d9c112.png)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+About me: 
+- 🌱 I’m a full stack developer trainee. 
+- 👯 I’m a teacher interested in changing career paths. 
+- 😄 I'm currently studying hard to get my 1st job as a developer. 
+- ⚡ Interests: programming, photography, travel, yoga, design, coaching  
+- 💬 Favorite quotes: 
+       * "Attitude is everything"
+       * "What you think you become"
+       * "Keep it simple. Less is more" 
+- 📫 How to reach me: sabrinadanielasastre@gmail.com
