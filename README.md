@@ -5,13 +5,17 @@
 I'm glad you are interested in my work! Welcome! 
 <p><em>I'm a full stack developer trainee studying at <a href="https://www.digitalhouse.com/">Digital House</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
 
+[![Linkedin: Sabrina Sastre](https://img.shields.io/badge/-Sabrina Sastre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrinadanielasastre/)](https://www.linkedin.com/in/sabrinadanielasastre/)
+[![GitHub sabrinasastre](https://img.shields.io/github/followers/sabrinasastre?label=follow&style=social)](https://github.com/sabrinasastre)
+
+
+
+
 [![Linkedin: sabrinadanielasastre](https://ar.linkedin.com/in/sabrinadanielasastre)](https://ar.linkedin.com/in/sabrinadanielasastre)
 [![GitHub Sabrina Sastre](https://github.com/sabrinasastre)](https://github.com/sabrinasastre)
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em> A little more about me...  
-
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> A little more about me...  
 - 🌱 I’m a full stack developer trainee. 
 - 👯 I’m a teacher interested in changing career paths. 
 - 😄 I'm currently studying hard to get my 1st job as a developer. 
