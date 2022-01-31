@@ -13,8 +13,8 @@
         | "What you think you become"
         | "Less is more" </em>
 - 📫 How to reach me:</br>
-           <pre>:heavy_check_mark: Write to me at  sabrinadanielasastre@gmail.com </pre> </br> 
-           <pre> :heavy_check_mark: Follow/contact me on  www.linkedin.com/in/sabrinadanielasastre </pre> </br> 
+           <pre>:heavy_check_mark: Write to me at  sabrinadanielasastre@gmail.com </br> 
+           <pre> :heavy_check_mark: Follow/contact me on  www.linkedin.com/in/sabrinadanielasastre </br> 
 
 
 ### Tech & Tools 
