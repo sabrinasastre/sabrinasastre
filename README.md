@@ -32,7 +32,7 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Let´s connect!!!! </b> <b> I'll be happy to meet you! </b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Let´s connect!!!! </b> <b> I'll be happy to meet you and learn from each other! </b> :)</em>
 
 
 
