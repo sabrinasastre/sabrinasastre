@@ -12,8 +12,9 @@
          <em> "Attitude is everything"
         | "What you think you become"
         | "Less is more" </em>
-- 📫 How to reach me: sabrinadanielasastre@gmail.com
--     Follow/contact me on:  [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](www.linkedin.com/in/sabrinadanielasastre)
+- 📫 How to reach me:
+       Write to me at:  sabrinadanielasastre@gmail.com
+       Follow/contact me on:  www.linkedin.com/in/sabrinadanielasastre
 
 
 ### Tech & Tools 
