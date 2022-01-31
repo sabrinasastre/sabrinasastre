@@ -14,6 +14,9 @@
         | "Less is more" </em>
 - 📫 How to reach me: sabrinadanielasastre@gmail.com
 
+  [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/mustafadalga) &nbsp;&nbsp;
+  [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:sabrinadanielasastre@gmail.com)
+
 ### Tech & Tools 
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
