@@ -4,8 +4,8 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></em> A little more about me...  
-- 🌱 I’m a full stack developer in training. 
-- 👯 I’m a teacher/pedagogist interested in changing career paths. 
+- 🌱 I’m a full stack developer, teacher and pedagogist. 
+- 👯 I live in the city of Buenos Aires, Argentina.
 - 😄 I'm currently studying hard to get my 1st job as a developer. 
 - ⚡ Other Interests: photography, travel, yoga, design, coaching  
 - 💬 Favorite quotes: 
