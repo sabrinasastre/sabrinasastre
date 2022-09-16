@@ -1,12 +1,11 @@
 <h1> Hi, I'm Sabrina! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3><p><em>I'm a full stack developer, studying at <a href="https://www.digitalhouse.com/">Digital House,</a> 
-</br> looking for my first job in IT</p></h3>
+<h3><p><em>I'm a  QA Analyst and full stack developer </p></h3>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></em> A little more about me...  
-- 🌱 I’m a full stack developer, teacher and pedagogist. 
+- 🌱 I’m a QA Analyst, full stack developer, teacher and pedagogist. 
 - 👯 I live in the city of Buenos Aires, Argentina.
-- 😄 I'm currently studying hard to get my 1st job as a developer. 
+- 😄 I'm learning new things all the time
 - ⚡ Other Interests: photography, travel, yoga, design, coaching  
 - 💬 Favorite quotes: 
          <em> "Attitude is everything"
